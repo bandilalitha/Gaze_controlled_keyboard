@@ -185,7 +185,7 @@ frames_to_blink = 6
 frames_active_letter = 9
 blinked = False
 
-#Text and keyboard settigns
+#Text and keyboard settings
 text=""
 keyboard_selected = "left"
 last_keyboard_selected = "left"
